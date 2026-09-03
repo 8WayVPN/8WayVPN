@@ -47,7 +47,6 @@
 
 - Telegram：[t.me/eightWay_support](https://t.me/eightWay_support)
 - 邮箱：li.luis.mx@gmail.com
-- YouTube：[youtube.com/@8Way](https://www.youtube.com/@8Way)
 - 官网：[serpkits.com](https://serpkits.com)
 
 ## 支持我们
