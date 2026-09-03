@@ -47,6 +47,7 @@ Most VPNs are designed for general browsing. 8Way is designed for **AI and devel
 
 - Telegram: [t.me/eightWay_support](https://t.me/eightWay_support)
 - Email: li.luis.mx@gmail.com
+- YouTube: [youtube.com/@8Way](https://www.youtube.com/@8Way)
 - Official site: [serpkits.com](https://serpkits.com)
 
 ## Support Us
